@@ -5,6 +5,7 @@ public class NewTestCase001 {
 
         System.out.println();
         System.out.println();
+        System.out.println();
 
     }
 }
